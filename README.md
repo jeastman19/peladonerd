@@ -1,6 +1,6 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O013K68)
 
-<img src="https://slack.peladonerd.com/badge.svg">
+<a href="https://slack.peladonerd.com/"><img src="https://slack.peladonerd.com/badge.svg"></a>
 
 # Pelado Nerd repo
 
@@ -53,6 +53,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    15. [Wordpres + MySQL](./kubernetes/15) / [video](https://youtu.be/TnME3zam7Zo)
    16. [ENVs y Secrets](./kubernetes/16) / [video](https://youtu.be/T7lRHHa4YxE)
    17. [Prometheus 2: Grafana](./kubernetes/17) / [video](https://youtu.be/_mJPvzMStPI)
+   18. [RBAC: Roles, RoleBinding, ClusterRole, ClusterRoleBinding, ServiceAccount](./kubernetes/18) / [video](https://youtu.be/VTADZjL_psI)
 
 4. Varios
    1. [Creá tu sitio con SSL gratis con Docker y Let's encrypt](./varios/1) / [video](https://youtu.be/S2YFqf4L7l8)
@@ -72,6 +73,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    11. [kubectl tips](./v2m/11) / [video](https://youtu.be/caHsjOmrr2s)
    12. [kind](./v2m/12) / [video](https://youtu.be/8Wjzpywdjyc)
    13. [Telepresence](./v2m/13) / [video](https://youtu.be/MipT55DJFec)
+   14. [Diferencia entre RUN, CMD y ENTRYPOINT](./v2m/14) / [video](https://youtu.be/6ZnecM3ipu4)
 
 6. Terraform
    1. [Terraform 1](./terraform/1) / [video](https://youtu.be/1itPqkU8XZw)
