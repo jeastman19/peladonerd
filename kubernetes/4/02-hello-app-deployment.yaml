@@ -9,7 +9,6 @@ spec:
   selector:
     matchLabels:
       role: hello
-      tier: web
   template:
     metadata:
       labels:

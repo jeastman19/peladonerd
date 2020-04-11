@@ -27,6 +27,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    8. [Swarm](./docker/8) / [video](https://youtu.be/jRYRC3ZZPW8) 
    9. [Multi-Arch Builds](./docker/9) / [video](https://youtu.be/oqbHdn1oNCs) 
    10. [Docker Registry](./docker/10) / [video](https://youtu.be/stVspIUHP4Q) 
+   11. [Buildkit](./docker/11) / [video](https://youtu.be/NrpM2FX47Hg)
 
 2. Raspberry
    1. [Instalación de Docker en Raspberry y compartir archivos samba](./raspi/1) / [video](https://youtu.be/pliGG1M87W8)
@@ -34,6 +35,7 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    3. [Plex sobre Docker en Raspbery](https://github.com/pablokbs/plex-rpi) / [video](https://youtu.be/Y7sTa4zvKWQ)
    4. [Acceso remoto a tu Raspberry usando NO-IP.com](./raspi/4) / [video](https://youtu.be/QW9Nzxrj0pY)
    5. [Flexget](https://github.com/pablokbs/plex-rpi) / [video](https://youtu.be/TqVoHWjz_tI)
+   6. [Modo Kiosco](./raspi/6) / [video](https://youtu.be/PYxFGXGchLQ)
 
 3. Kubernetes
    1. [Creando un cluster de Kubernetes con Digital Ocean](./kubernetes/1) / [video](https://youtu.be/fhYSKEy0s8w)
@@ -54,11 +56,17 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    16. [ENVs y Secrets](./kubernetes/16) / [video](https://youtu.be/T7lRHHa4YxE)
    17. [Prometheus 2: Grafana](./kubernetes/17) / [video](https://youtu.be/_mJPvzMStPI)
    18. [RBAC: Roles, RoleBinding, ClusterRole, ClusterRoleBinding, ServiceAccount](./kubernetes/18) / [video](https://youtu.be/VTADZjL_psI)
+   19. [CRDs + Traefik V2](./kubernetes/19) / [video](https://youtu.be/UO9YrNj-Y88)
+   20. [Kustomize](./kubernetes/20) / [video](https://youtu.be/2G_CCDnxXcE)
+   21. [kubeadm](./kubernetes/21) / [video](https://youtu.be/K6oFYgXgzv4)
+   22. [Rancher](./kubernetes/22) / [video](https://youtu.be/74Qd1Kl79P8)
+   23. [Jobs y Cronjobs](./kubernetes/23) / [video](https://youtu.be/9Dl-okb4gm4)
 
 4. Varios
    1. [Creá tu sitio con SSL gratis con Docker y Let's encrypt](./varios/1) / [video](https://youtu.be/S2YFqf4L7l8)
    2. [Traefik](./varios/2) / [video](https://youtu.be/6qkhvhv0_IU)
    3. [Poste](./terraform/3) / [video](https://youtu.be/K4-uD1VHCz0)
+   4. [Gitlab CI/CD](./streaming/2) / [video](https://youtu.be/c5T0UkuD-6g)
 
 5. Viernes 2 Minutos
    1. [Docker-compose override](./v2m/1) / [video](https://youtu.be/TPmbwAgN4ZA)
@@ -74,7 +82,16 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    12. [kind](./v2m/12) / [video](https://youtu.be/8Wjzpywdjyc)
    13. [Telepresence](./v2m/13) / [video](https://youtu.be/MipT55DJFec)
    14. [Diferencia entre RUN, CMD y ENTRYPOINT](./v2m/14) / [video](https://youtu.be/6ZnecM3ipu4)
+   15. [MySQL Operator](./v2m/15) / [video](https://youtu.be/2i5t6bfgWvE)
+   16. [Supervisord](./v2m/16) / [video](https://youtu.be/mfXnqHRT8hI)
+   17. [Popeye](./v2m/17) / [video](https://youtu.be/xKGPN_47qxM)
+   18. [Init Containers](./v2m/18) / [video](https://youtu.be/a03oHbGUef4)
+   19. [Netdata](./v2m/19) / [video](https://youtu.be/bGyMLNRBlQ0)
+   20. [Matrix](./v2m/20) / [video](https://youtu.be/ZiVQalt5xhk)
 
 6. Terraform
    1. [Terraform 1](./terraform/1) / [video](https://youtu.be/1itPqkU8XZw)
    2. [Terraform 2](./terraform/2) / [video](https://youtu.be/i2LJAQVKYeY)
+
+7. Streamings
+   1. [Gitlab CI/CD](./streaming/2) / [video](https://youtu.be/RhSkUh7cGqc)
